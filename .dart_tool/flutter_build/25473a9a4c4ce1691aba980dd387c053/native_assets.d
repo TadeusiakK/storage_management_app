@@ -1,0 +1,1 @@
+ C:\\Users\\ktskg\\OneDrive\\Pulpit\\projekt_dyplomowy\\storage_management_app\\.dart_tool\\flutter_build\\25473a9a4c4ce1691aba980dd387c053\\native_assets.yaml: 
